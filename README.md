@@ -1,5 +1,4 @@
-[![Stories in Ready](https://badge.waffle.io/subicura/apist.png?label=ready)](https://waffle.io/subicura/apist)
-# apist.net
+# apist.net  [![Stories in Ready](https://badge.waffle.io/subicura/apist.png?label=ready)](https://waffle.io/subicura/apist)
 
 베타기간동안 이슈관리를 위한 repository 입니다.
 
