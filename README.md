@@ -6,5 +6,10 @@
 
 추가되었으면 하는 기능이나 버그를 발견했을 경우 자유롭게 이슈를 등록해주세요!
 
+빨리 추가되었으면 하는 기능은 등록된 이슈에 댓글(:+1)을 달아주시면 참고하겠습니다.
+
+더 좋은 API 설계를 위하여 =_=/
+
 - [이슈리스트](https://github.com/subicura/apist/issues)
 - [진행상황보기](https://waffle.io/subicura/apist)
+- 메일(chungsub.kim@purpleworks.co.kr)
