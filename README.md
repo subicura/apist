@@ -1,5 +1,10 @@
 # apist.net  [![Stories in Ready](https://badge.waffle.io/subicura/apist.png?label=ready)](https://waffle.io/subicura/apist)
 
+
+apist(에이피스트)는 여러 사람이 API를 쉽고 빠르게 작성할 수 있도록 도와주는 서비스입니다.
+
+----
+
 베타기간동안 이슈관리를 위한 repository 입니다.
 
 등록된 이슈와 진행상황을 확인할 수 있습니다.
